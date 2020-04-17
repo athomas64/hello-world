@@ -1,3 +1,3 @@
 # hello-world
 
-Edited by Aidan Thomas
+I am Aidan Thomas I go to San Diego State!
